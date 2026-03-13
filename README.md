@@ -1,16 +1,90 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhishek%20Karmakar&fontSize=40&fontColor=ffffff"/>
 
-<!--
-**Abhi1398-glitech/Abhi1398-glitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Abhishek Karmakar</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhishek+Karmakar;Building+Scalable+Web+Apps+%26+AI+Powered+Solutions;Electronics+%26+Computer+Science+Student+at+KIIT;Full+Stack+Developer+%7C+AI+Enthusiast;Turning+Ideas+into+Real+World+Tech+🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 B.Tech in **Electronics & Computer Science** at **KIIT University, Bhubaneswar**  
+💻 Passionate about **Web Development, AI Systems, and Scalable Backend Architecture**  
+☁️ Interested in **Cloud Computing, Machine Learning, and SaaS Platforms**  
+🧠 Always exploring **new technologies and real-world problem solving**
+
+---
+
+## ✨ Featured Projects
+
+### 🤖 AI-Powered SaaS Platform
+- Built a **scalable backend system** handling **5000+ API requests/day**
+- Optimized database performance with **query response time under 400ms**
+- Improved efficiency **30% compared to initial benchmarks**
+
+### 📚 Student Class Schedule Portal
+- Developed a web platform for **2000+ students**
+- Retrieve schedules using **roll number-based search**
+- Reduced manual inquiries by **99%**
+- Built using **Python, SQL, and Excel data processing**
+- 
+### 🤖 Smart Home Agent
+- Developed a web platform for **Managing home Appliences**
+- Chat for any information any time **Which has all the Essentian info of your home**
+- Reduced manual inquiries by **99%**
+- Built using **Python, SQL, and RAG**
+---
+
+## 🧠 Currently Learning
+
+- ⚛️ Advanced **React & Modern Frontend Architecture**
+- ☁️ **Cloud Computing (AWS & IBM Cloud)**
+- 🤖 **Machine Learning & AI Systems**
+- 🛠️ **Linux Administration**
+- 🗄️ **Scalable Database Design**
+- 🛠️ **Quantum Computing**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi1398-glitech&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi1398-glitech&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+📧 Email: **abhishek191204@gmail.com**  
+💼 LinkedIn: https://www.linkedin.com/in/abhishek-karmakar-b64425288/  
+💻 GitHub: https://github.com/Abhi1398-glitech  
+
+---
+
+## 🎯 Interests
+
+✈️ Travelling  
+🚗 Driving  
+🎨 Sketching & Painting  
+🔍 Exploring New Technologies  
+
+---
+
+⭐ *"Building technology that solves real-world problems and scales for the future."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
