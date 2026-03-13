@@ -26,7 +26,7 @@
 - Retrieve schedules using **roll number-based search**
 - Reduced manual inquiries by **99%**
 - Built using **Python, SQL, and Excel data processing**
-- 
+
 ### 🤖 Smart Home Agent
 - Developed a web platform for **Managing home Appliences**
 - Chat for any information any time **Which has all the Essential info of your home**
