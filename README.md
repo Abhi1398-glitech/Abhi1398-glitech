@@ -14,27 +14,27 @@
 
 ---
 
-## ✨ Featured Projects
+✨ Featured Projects
 
-### 🤖 AI-Powered SaaS Platform
+ 🤖 AI-Powered SaaS Platform
 - Built a **scalable backend system** handling **5000+ API requests/day**
 - Optimized database performance with **query response time under 400ms**
 - Improved efficiency **30% compared to initial benchmarks**
 
-### 📚 Student Class Schedule Portal
+ 📚 Student Class Schedule Portal
 - Developed a web platform for **2000+ students**
 - Retrieve schedules using **roll number-based search**
 - Reduced manual inquiries by **99%**
 - Built using **Python, SQL, and Excel data processing**
 
-### 🤖 Smart Home Agent
+ 🤖 Smart Home Agent
 - Developed a web platform for **Managing home Appliences**
 - Chat for any information any time **Which has all the Essential info of your home**
 - Reduced manual inquiries by **99%**
 - Built using **Python, SQL, and RAG**
 ---
 
-## 🧠 Currently Learning
+ 🧠 Currently Learning
 
 - ⚛️ Advanced **React & Modern Frontend Architecture**
 - ☁️ **Cloud Computing (AWS & IBM Cloud)**
@@ -45,7 +45,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+ 🛠️ Languages and Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino" />
@@ -53,7 +53,7 @@
 
 ---
 
-## 🌍 Connect With Me
+ 🌍 Connect With Me
 
 📧 Email: **abhishek191204@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/abhishek-karmakar-b64425288/  
@@ -62,7 +62,7 @@
 
 ---
 
-## 🎯 Interests
+ 🎯 Interests
 
 ✈️ Travelling  
 🚗 Driving  
