@@ -29,7 +29,7 @@
 - 
 ### 🤖 Smart Home Agent
 - Developed a web platform for **Managing home Appliences**
-- Chat for any information any time **Which has all the Essentian info of your home**
+- Chat for any information any time **Which has all the Essential info of your home**
 - Reduced manual inquiries by **99%**
 - Built using **Python, SQL, and RAG**
 ---
@@ -58,6 +58,7 @@
 📧 Email: **abhishek191204@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/abhishek-karmakar-b64425288/  
 💻 GitHub: https://github.com/Abhi1398-glitech  
+🔍 Portfolio: https://karmakarabhishek-ade79.web.app/
 
 ---
 
