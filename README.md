@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 🎓 B.Tech in **Electronics & Computer Science** at **KIIT University, Bhubaneswar**  
 💻 Passionate about **Web Development, AI Systems, and Scalable Backend Architecture**  
