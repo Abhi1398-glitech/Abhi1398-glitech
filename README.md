@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhishek%20Karmakar&fontSize=40&fontColor=ffffff"/>
-
-<h1 align="center">Hi 👋, I'm Abhishek Karmakar</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhishek+Karmakar;Building+Scalable+Web+Apps+%26+AI+Powered+Solutions;Electronics+%26+Computer+Science+Student+at+KIIT;Full+Stack+Developer+%7C+AI+Enthusiast;Turning+Ideas+into+Real+World+Tech+🚀" />
@@ -56,18 +53,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi1398-glitech&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi1398-glitech&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 📧 Email: **abhishek191204@gmail.com**  
@@ -85,6 +70,14 @@
 
 ---
 
-⭐ *"Building technology that solves real-world problems and scales for the future."*
+## 📊 GitHub Stats
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abhi1398-glitech&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi1398-glitech&layout=compact&theme=tokyonight" />
+</p>
+
+⭐ *"Building technology that solves real-world problems and scales for the future."*
