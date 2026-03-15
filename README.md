@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhishek+Karmakar;Building+Scalable+Web+Apps+%26+AI+Powered+Solutions;Electronics+%26+Computer+Science+Student+at+KIIT;Full+Stack+Developer+%7C+AI+Enthusiast;Turning+Ideas+into+Real+World+Tech+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abhishek+Karmakar;Building+Scalable+Web+Apps+%26+AI+Powered+Solutions;Electronics+%26+Computer+Science+Student+at+KIIT;Web+Developer+%7C+AI+Enthusiast;Turning+Ideas+into+Real+World+Tech+🚀" />
 </p>
 
 ---
