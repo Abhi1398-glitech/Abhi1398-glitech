@@ -48,7 +48,7 @@
  🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,n8n,docker,langchain" />
 </p>
 
 ---
