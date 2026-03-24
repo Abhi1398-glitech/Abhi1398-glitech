@@ -29,8 +29,8 @@
 
  📚 Student Class Schedule Portal
 - Developed a web platform for **2000+ students**
-- Retrieve schedules using **roll number-based search**
-- Reduced manual inquiries by **99%**
+- Retrieve schedules using **roll number-based search** resolving complex multi section schedules
+- Unified elective datasets with **100%** optimized data modeling logic without server side processing
 - Built using **Python, SQL, and Excel data processing**
 
  🤖 Smart Home Agent
