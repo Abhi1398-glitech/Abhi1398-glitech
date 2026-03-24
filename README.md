@@ -11,6 +11,11 @@
 💻 Passionate about **Web Development, AI Systems, and Scalable Backend Architecture**  
 ☁️ Interested in **Cloud Computing, Machine Learning, and SaaS Platforms**  
 🧠 Always exploring **new technologies and real-world problem solving**
+🛠️ Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,postman,docker,vscode" />
+</p>
 
 ---
 
@@ -42,14 +47,6 @@
 - 🛠️ **Linux Administration**
 - 🗄️ **Scalable Database Design**
 - 🛠️ **Quantum Computing**
-
----
-
- 🛠️ Languages and Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,postman,docker,vscode" />
-</p>
 
 ---
 
