@@ -15,7 +15,7 @@
 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,postman,docker,vscode,vite,bun,flask,googlecloud,kali,anaconda,bash,cloudflare,gcp,kotlin,nodejs,npm,supabase,sklearn,jenkins" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,postman,docker,vscode,vite,flask,googlecloud,kali,anaconda,bash,cloudflare,gcp,kotlin,nodejs,npm,supabase,sklearn,jenkins,kuberneties" />
 </p>
 
 ---
@@ -66,17 +66,5 @@
 🚗 Driving  
 🎨 Sketching & Painting  
 🔍 Exploring New Technologies  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhi1398-glitech&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi1398-glitech&layout=compact&theme=tokyonight" />
-</p>
 
 ⭐ *"Building technology that solves real-world problems and scales for the future."*
