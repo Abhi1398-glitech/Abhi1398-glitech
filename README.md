@@ -15,7 +15,7 @@
 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,postman,docker,vscode,vite,bun,flask,googlecloud,kali,anaconda,bash,cloudflare,gpc,kotlin,nodejs,npm,supabase,sklearn,jenkins,kubernetes" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,postman,docker,vscode,vite,bun,flask,googlecloud,kali,anaconda,bash,cloudflare,gcp,kotlin,nodejs,npm,supabase,sklearn,jenkins,kubernetes" />
 </p>
 
 ---
