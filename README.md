@@ -15,7 +15,7 @@
 🛠️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,postman,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=c,python,java,html,js,react,mongodb,mysql,aws,linux,git,arduino,postman,docker,vscode,vite,bun,cloudflair,javascript,conda,react,flask,superbase,googlecloud,kali" />
 </p>
 
 ---
