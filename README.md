@@ -55,7 +55,6 @@
 
 📧 Email: **abhishek191204@gmail.com**  
 💼 LinkedIn: https://www.linkedin.com/in/abhishek-karmakar-b64425288/  
-💻 GitHub: https://github.com/Abhi1398-glitech  
 🔍 Portfolio: https://karmakarabhishek-ade79.web.app/
 
 ---
